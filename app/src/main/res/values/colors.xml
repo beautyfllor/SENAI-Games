@@ -10,4 +10,5 @@
     <color name="gray_search">#BBBBBB</color>
     <color name="gray_edit">#424657</color>
     <color name="main_background">#242734</color>
+    <color name="button_color">#FFAF29</color>
 </resources>

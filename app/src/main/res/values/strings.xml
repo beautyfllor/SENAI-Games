@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Games</string>
     <string name="search">Search...</string>
+    <string name="view_game">View Game</string>
+    <string name="god_of_war_ascension">God of war: Ascension</string>
+    <string name="this_prequel_to_the_very_first_game_in_the_god_of_war_series_and_the_seventh_game_in_the_franchise_it_is_exclusive_for_the_sony_playstation_3_console_the_game_still_uses_the_ancient_greek_mythology_as_visual_inspiration_and_the_primary_story">This prequel to the very first game in the God of War series and the seventh game in the franchise. It is exclusive for the Sony PlayStation 3 console. The game still uses the ancient Greek mythology as visual inspiration and the primary story</string>
 </resources>
